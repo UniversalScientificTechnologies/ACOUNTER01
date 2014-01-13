@@ -1,0 +1,13 @@
+﻿[InfoShortDescription.en]
+Automatic Counter
+
+[InfoShortDescription.cs]
+Atomový čítač
+
+[InfoLongDescription.en]
+A Counter synchonised by GPS.
+
+[InfoLongDescription.cs]
+Čítač synchronizovaný pomocí GPS.
+
+[End]
