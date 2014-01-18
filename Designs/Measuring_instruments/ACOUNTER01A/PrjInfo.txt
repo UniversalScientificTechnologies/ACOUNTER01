@@ -1,13 +1,13 @@
 ﻿[InfoShortDescription.en]
-Automatic Counter
+FPGA Automatic Counter
 
 [InfoShortDescription.cs]
-Atomový čítač
+Atomový čítač s FPGA
 
 [InfoLongDescription.en]
-A Counter synchonised by GPS.
+A Counter synchonised by GPS. Tested to work up to 650 MHz with accuracy 0.1 ppm.  
 
 [InfoLongDescription.cs]
-Čítač synchronizovaný pomocí GPS.
+Čítač synchronizovaný pomocí GPS. Měří do 650 MHz s přesností 0.1 ppm
 
 [End]
