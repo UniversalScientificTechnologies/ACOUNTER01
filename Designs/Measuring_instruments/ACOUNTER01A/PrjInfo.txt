@@ -1,5 +1,5 @@
 ﻿[InfoShortDescription.en]
-FPGA Automatic Counter
+FPGA Atomic frequency Counter
 
 [InfoShortDescription.cs]
 Atomový čítač s FPGA
